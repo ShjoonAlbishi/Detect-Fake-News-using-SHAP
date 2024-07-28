@@ -1,0 +1,8 @@
+The age of information bombardment has seen an increase in the spread of fake news. 
+Traditional methods simply cannot keep up with the deluge of content produced daily. 
+Machine learning presents a viable option for scalable and effective fake news 
+detection. However, most machine learning models currently have a "black-box" 
+nature, which generally prevents them from being widely accepted and useful. To 
+address these challenges, this paper incorporates SHAP (SHapley Additive 
+exPlanations), a state-of-the-art method for explainability, to provide prediction 
+explainability for machine-learning models
